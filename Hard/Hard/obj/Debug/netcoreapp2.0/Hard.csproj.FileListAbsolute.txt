@@ -1,0 +1,11 @@
+/Users/hunternewton/Desktop/Hard/Hard/bin/Debug/netcoreapp2.0/Hard.deps.json
+/Users/hunternewton/Desktop/Hard/Hard/bin/Debug/netcoreapp2.0/Hard.runtimeconfig.json
+/Users/hunternewton/Desktop/Hard/Hard/bin/Debug/netcoreapp2.0/Hard.runtimeconfig.dev.json
+/Users/hunternewton/Desktop/Hard/Hard/bin/Debug/netcoreapp2.0/Hard.dll
+/Users/hunternewton/Desktop/Hard/Hard/bin/Debug/netcoreapp2.0/Hard.pdb
+/Users/hunternewton/Desktop/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.csprojResolveAssemblyReference.cache
+/Users/hunternewton/Desktop/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.csproj.CoreCompileInputs.cache
+/Users/hunternewton/Desktop/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.AssemblyInfoInputs.cache
+/Users/hunternewton/Desktop/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.AssemblyInfo.cs
+/Users/hunternewton/Desktop/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.dll
+/Users/hunternewton/Desktop/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.pdb

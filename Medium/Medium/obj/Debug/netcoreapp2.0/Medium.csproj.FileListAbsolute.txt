@@ -1,0 +1,11 @@
+/Users/hunternewton/Desktop/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.csprojResolveAssemblyReference.cache
+/Users/hunternewton/Desktop/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.csproj.CoreCompileInputs.cache
+/Users/hunternewton/Desktop/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.AssemblyInfoInputs.cache
+/Users/hunternewton/Desktop/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.AssemblyInfo.cs
+/Users/hunternewton/Desktop/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.deps.json
+/Users/hunternewton/Desktop/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.runtimeconfig.json
+/Users/hunternewton/Desktop/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.runtimeconfig.dev.json
+/Users/hunternewton/Desktop/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.dll
+/Users/hunternewton/Desktop/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.pdb
+/Users/hunternewton/Desktop/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.dll
+/Users/hunternewton/Desktop/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.pdb
