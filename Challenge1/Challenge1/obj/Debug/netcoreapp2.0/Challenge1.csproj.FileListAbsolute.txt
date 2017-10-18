@@ -1,0 +1,11 @@
+/Users/hunternewton/Projects/Challenge1/Challenge1/bin/Debug/netcoreapp2.0/Challenge1.deps.json
+/Users/hunternewton/Projects/Challenge1/Challenge1/bin/Debug/netcoreapp2.0/Challenge1.runtimeconfig.json
+/Users/hunternewton/Projects/Challenge1/Challenge1/bin/Debug/netcoreapp2.0/Challenge1.runtimeconfig.dev.json
+/Users/hunternewton/Projects/Challenge1/Challenge1/bin/Debug/netcoreapp2.0/Challenge1.dll
+/Users/hunternewton/Projects/Challenge1/Challenge1/bin/Debug/netcoreapp2.0/Challenge1.pdb
+/Users/hunternewton/Projects/Challenge1/Challenge1/obj/Debug/netcoreapp2.0/Challenge1.csprojResolveAssemblyReference.cache
+/Users/hunternewton/Projects/Challenge1/Challenge1/obj/Debug/netcoreapp2.0/Challenge1.csproj.CoreCompileInputs.cache
+/Users/hunternewton/Projects/Challenge1/Challenge1/obj/Debug/netcoreapp2.0/Challenge1.AssemblyInfoInputs.cache
+/Users/hunternewton/Projects/Challenge1/Challenge1/obj/Debug/netcoreapp2.0/Challenge1.AssemblyInfo.cs
+/Users/hunternewton/Projects/Challenge1/Challenge1/obj/Debug/netcoreapp2.0/Challenge1.dll
+/Users/hunternewton/Projects/Challenge1/Challenge1/obj/Debug/netcoreapp2.0/Challenge1.pdb
